@@ -1,2 +1,2 @@
 # puller.xt
-Puller.xt by github pullers 
+Puller.zs pushed by git.
